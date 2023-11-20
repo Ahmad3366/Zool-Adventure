@@ -12,7 +12,7 @@ npm install
 ```
 after it finish run :
 ```
-nom run dev
+npm run dev
 ```
 a local server should start at port 5000 <br />
 navigate to [localhost:5000](localhost:5000) and enjoy 🙂
