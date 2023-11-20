@@ -17,7 +17,7 @@ export const Load = {
         loadSprite('coin', './assets/coin.png')
         loadSprite('heart', './assets/heart.png')
         
-        loadSprite('player', './assets/zool.png', {
+        loadSprite('player', './assets/Zool.png', {
             sliceX: 7,
             // sliceY: 1,
             anims: {

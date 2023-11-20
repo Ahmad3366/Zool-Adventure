@@ -106,6 +106,6 @@ for (const key in scenes) {
 }
 
 
-go('2')
+go('menu')
 
 // k.debug.inspect = true
